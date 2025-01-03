@@ -1,8 +1,8 @@
 //
 //  LaunchAnimationView.swift
-//  MapTest
+//  
 //
-//  Created by 孫立明 on 2025/1/3.
+//  
 //
 
 import SwiftUI
